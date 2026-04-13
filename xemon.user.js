@@ -10,5 +10,5 @@
 
 (function() {
     'use strict';
-console("test")
+console.log("test")
 })();
